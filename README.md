@@ -2,12 +2,14 @@
 
 # Lucas Dias Procópio Mercês
 
-### Software Engineer · Mobile · React Native · iOS & Android
+### Software Engineer · Mobile Products · Native Platforms · Full-Stack Architecture
 
-Building accessible, reliable, and delightful mobile products for real-world users.
+Building accessible, reliable, and delightful products for mobile, web, and desktop.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmerces)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Production_Work-6C47FF?style=for-the-badge&logo=github&logoColor=white)](#selected-production-work)
+[![Active Projects](https://img.shields.io/badge/Portfolio-Active_Projects-6C47FF?style=for-the-badge&logo=github&logoColor=white)](#active-private-projects)
+
+[Active projects](#active-private-projects) · [Production work](#production-work--plein-air) · [Engineering approach](#engineering-approach) · [Career highlights](#career-highlights)
 
 </div>
 
@@ -15,13 +17,94 @@ Building accessible, reliable, and delightful mobile products for real-world use
 
 ## About me
 
-I am a Software Engineer focused on mobile products, accessible user experiences, performance, and dependable production delivery.
+I am a Software Engineer focused on mobile products, accessible user experiences, performance, and dependable production delivery. I work comfortably from product discovery and interface architecture to native integrations, backend contracts, data, testing, and release pipelines.
 
-I have worked across food-service technology, fitness, e-commerce, financial services, consumer electronics, healthcare, and public-sector systems. My recent work has centered on high-traffic mobile applications used by customers in the United States.
+My experience spans food-service technology, fitness, e-commerce, financial services, consumer electronics, healthcare, games, creative tools, and public-sector systems. Recent work includes high-traffic consumer applications used across the United States and a growing portfolio of independently developed products.
 
 > 🔒 **Privacy by design:** professional and private-project source code remains private. This portfolio presents public products, verified technologies, contribution areas, and outcomes without exposing client-owned code or confidential implementation details.
 
-## Selected production work · Plein Air
+## Active private projects
+
+These are products I am actively building or evolving. Their repositories remain private, but the product direction, engineering scope, and technology choices can be shared.
+
+### Product development
+
+#### 🃏 Royale Companion
+
+![Active](https://img.shields.io/badge/Status-Active_Development-22C55E?style=flat-square)
+![Mobile and Web](https://img.shields.io/badge/Platforms-iOS_%C2%B7_Android_%C2%B7_Web-6C47FF?style=flat-square)
+![Private Source](https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github)
+
+A Magic: The Gathering companion platform designed to support real matches, deck and commander workflows, multiplayer tables, card discovery, rules assistance, and community participation from a single product ecosystem.
+
+- **Current engineering:** resilient QR seat claiming, authenticated and guest participation, live-session synchronization, indexed card search, game-screen performance, accessibility, and Android/iOS delivery.
+- **Architecture:** durable server state as the source of truth, Realtime as a synchronization signal, capability-backed transactions, RLS-protected data, local SQLite support, isolated high-frequency rendering, and observable release flows.
+- **Stack:** React Native, Expo Router, TypeScript, Supabase Auth/Postgres/Realtime/Storage/Edge Functions, SQLite, Skia, Reanimated, Zustand, Zod, Sentry, Jest, pgTAP, and Fastlane.
+- **Public surface:** [open the Royale Companion web experience](https://royalecompanion.vercel.app/).
+
+#### 📋 Peripecia Tech
+
+![Active](https://img.shields.io/badge/Status-Active_Development-22C55E?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Product-Full_Stack_Web_%C2%B7_Mobile-F97316?style=flat-square)
+![Private Source](https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github)
+
+A collaborative work-management platform inspired by the clarity of Trello, organized around teams, workspaces, boards, lanes, and cards while extending the model with planning, permissions, activity, and richer project context.
+
+- **Current engineering:** multi-tenant access rules, invitations and ownership, drag-and-drop boards, card details and activity, aggregate planning views, notifications, and private attachments.
+- **Architecture:** a type-safe monorepo with shared UI and contracts, vertical feature slices, end-to-end typed APIs, authorization-preserving projections, direct-to-storage uploads, and short-lived signed access.
+- **Stack:** Bun, Turborepo, React, React Native, TanStack Router/Query/Form, Elysia, oRPC, Drizzle ORM, PostgreSQL, Supabase Storage, Better Auth, Zod, Biome, and Vercel.
+
+#### 📸 Tubbiecam
+
+![Active](https://img.shields.io/badge/Status-Active_R%26D-22C55E?style=flat-square)
+![Native Camera](https://img.shields.io/badge/Product-Native_Camera_%C2%B7_On--device_AI-EC4899?style=flat-square)
+![Private Source](https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github)
+
+A camera-first portrait assistant that helps people capture better selfies and product photos through live framing guidance, on-device visual signals, fast capture, and a native post-processing workflow.
+
+- **Current engineering:** person, face, smile, pose, and luminance signals; capture-readiness guidance; JPEG-first and RAW-aware processing; non-destructive editing; native live previews; gallery variants; and privacy-reduced local evaluation.
+- **Architecture:** Feature-Sliced Design in React Native, deferred camera loading, native frame processors and renderers, revision-protected preview sessions, background render queues, and device-local research workflows.
+- **Stack:** React Native, Expo Development Builds, VisionCamera, MediaPipe, Worklets, TypeScript, Swift, Kotlin, Core Image, Android media APIs, TTS, and Jest.
+
+#### 🩺 Singular Tech
+
+![Active](https://img.shields.io/badge/Status-Active_Architecture_Evolution-22C55E?style=flat-square)
+![Desktop](https://img.shields.io/badge/Product-Desktop_%C2%B7_Offline_Capable-0EA5E9?style=flat-square)
+![Private Source](https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github)
+
+A desktop-first operations platform for psychology clinics, covering administrative records, professionals, patients, rooms, insurance plans, availability, and appointment scheduling with dependable local continuity.
+
+- **Current engineering:** migration from a local desktop runtime toward a Supabase-authoritative shared backend while preserving existing workflows and offline contingency.
+- **Architecture:** UI → application use case → repository contract → Tauri command → Rust → SQLite, complemented by a local outbox, idempotent replay, conflict evidence, timeout protection, SQL migrations, RLS, and RPC boundaries.
+- **Stack:** Tauri 2, React, TypeScript, Vite, Rust, SQLite, Supabase Postgres, Edge Functions, Vitest, pgTAP, GitHub Actions, and Windows installer delivery.
+
+### Creative and experimental labs
+
+#### 🎨 Jega Noir
+
+![Incubation](https://img.shields.io/badge/Status-Product_Incubation-F59E0B?style=flat-square)
+![Web](https://img.shields.io/badge/Product-Responsive_Web_Experience-8B5CF6?style=flat-square)
+![Private Source](https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github)
+
+A highly visual, responsive brand and portfolio experience built around a noir-inspired art direction. The product explores how cinematic presentation, strong typography, modular storytelling, and responsive behavior can coexist without sacrificing maintainability.
+
+- **Current engineering:** responsive one-page composition, reusable design tokens, modular content sections, mobile navigation, deployment optimization, and preparation for final case studies and imagery.
+- **Stack:** React 19, TypeScript, Vite, SCSS Modules, responsive design, semantic HTML, and component-driven content.
+
+#### 🧩 Procedural Maze X
+
+![Prototype](https://img.shields.io/badge/Status-Experimental_Prototype-F59E0B?style=flat-square)
+![Game](https://img.shields.io/badge/Product-Mobile_3D_Game-10B981?style=flat-square)
+![Private Source](https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github)
+
+A mobile-first 3D maze prototype that evolves an earlier React Native procedural-maze experiment into a native game-engine environment with generated levels and touch-oriented play.
+
+- **Current engineering:** runtime 3D maze generation, multiple difficulty levels, collision-aware first-person movement, desktop fallbacks, and dual touch joysticks.
+- **Stack:** Godot 4.6, GDScript, procedural generation, `CharacterBody3D`, runtime UI drawing, collision systems, and mobile input.
+
+---
+
+## Production work · Plein Air
 
 From 2023 to 2025, I contributed to a portfolio of customer-facing restaurant applications as part of the Plein Air engineering team. Each product had its own brand, operational rules, integrations, and customer journey, while sharing the demands of reliable ordering, loyalty, payments, and production support.
 
@@ -46,57 +129,55 @@ From 2023 to 2025, I contributed to a portfolio of customer-facing restaurant ap
 | Olo/OloPay, Punchh, Infobip, SpendGo, RadarSDK, and MapLibre | Daily collaboration in English with PMs, QAs, engineers, and stakeholders |
 | ADA/WCAG accessibility with VoiceOver, TalkBack, keyboard, and TV navigation | Ownership of urgent work and dependable cross-platform delivery |
 
-## Mobile engineering stack
+## Engineering approach
 
-<div align="center">
+| Principle | How I apply it |
+| :--- | :--- |
+| **Product-aware architecture** | Start from the user journey and business invariants, then choose boundaries and infrastructure that keep the product understandable. |
+| **Reliable distributed state** | Separate durable state from notifications, design idempotent operations, reconcile after missed events, and make failure states visible. |
+| **Performance by isolation** | Measure the interaction path, keep high-frequency state close to its consumers, and avoid unnecessary render or I/O cascades. |
+| **Native where it matters** | Use Swift, Kotlin, Rust, camera pipelines, and platform APIs behind focused interfaces when cross-platform abstractions are not enough. |
+| **Privacy and secure boundaries** | Minimize sensitive data, enforce authorization at server and database boundaries, and keep secrets and private artifacts out of clients and public documentation. |
+| **Verification proportional to risk** | Combine unit, integration, database, build, and device checks according to the surface being changed. |
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Reanimated](https://img.shields.io/badge/Reanimated-654FF0?style=for-the-badge&logo=react&logoColor=white)
-![Skia](https://img.shields.io/badge/React_Native_Skia-0F9D58?style=for-the-badge&logo=skia&logoColor=white)
-![VisionCamera](https://img.shields.io/badge/VisionCamera-111111?style=for-the-badge&logo=camera&logoColor=white)
+## Technical toolkit
 
-</div>
+**Mobile and native**
 
-## Architecture across private engineering projects
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Skia](https://img.shields.io/badge/React_Native_Skia-0F9D58?style=flat-square&logo=skia&logoColor=white)
+![VisionCamera](https://img.shields.io/badge/VisionCamera-111111?style=flat-square&logo=camera&logoColor=white)
 
-These case studies summarize architecture and hands-on engineering represented in private repositories. They intentionally describe systems, decisions, and technologies without exposing source code, credentials, client data, or confidential repository details.
+**Web, desktop, and product UI**
 
-| Architecture case study | Engineering synopsis | Stack and practices |
-| :--- | :--- | :--- |
-| **Realtime, secure mobile platform** | A cross-platform companion product with authenticated groups, live shared sessions, QR and deep-link participation, and durable transactional state. Realtime events accelerate synchronization, while persisted server state remains the source of truth and reconciliation path. | React Native, Expo Router, TypeScript, Supabase Auth/Postgres/Realtime/Edge Functions/Storage, RLS, SQL RPCs, SQLite, Zod |
-| **Performance-sensitive interactive UI** | A multi-participant interface with custom rendering, gestures, animated counters, and independent clocks. High-frequency state is isolated in external stores and subscribed to by leaf components to avoid full-screen render cascades. | React Native Skia, Reanimated, `useSyncExternalStore`, Zustand, render isolation, profiling |
-| **Native camera and on-device image pipeline** | A camera product with JPEG and RAW capture, native rendering, non-destructive adjustments, background processing, gallery export, and stale-response protection for live previews. Platform bridges keep image work close to the device while the product flow stays cross-platform. | React Native, Expo, VisionCamera, Worklets, Swift, Kotlin, Core Image, Android graphics/media APIs, Jest |
-| **Desktop-first system with offline contingency** | A desktop operational system with explicit UI, application, repository, native-command, and persistence boundaries. SQLite supports local continuity and an outbox records user intent for idempotent, timeout-protected replay toward an authoritative backend. | Tauri 2, React, TypeScript, Rust, SQLite, Supabase Postgres, RLS, RPCs, migrations, Vitest, pgTAP |
-| **Type-safe full-stack work management** | A multi-tenant planning platform organized around teams, workspaces, boards, lanes, and cards. Access rules are preserved across aggregate planning views, while private attachments use short-lived signed access after server-side authorization checks. | Bun, Turborepo, React, TanStack Router/Query/Form, Elysia, oRPC, Drizzle ORM, PostgreSQL, Supabase Storage, Zod |
-
-### Technologies represented in the private portfolio
-
-The badges below complement the architectural case studies; private repositories and source code remain inaccessible.
-
-<div align="center">
-
-![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TanStack Query](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=1A1A1A)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
-</div>
+**Backend, data, and delivery**
 
-## Additional professional case studies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=1A1A1A)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
+
+## Career highlights
 
 Some client and product names remain confidential, so these projects are presented through their public business context and the engineering work involved.
 
@@ -109,19 +190,6 @@ Some client and product names remain confidential, so these projects are present
 | **VOBYS human-capital management** | An enterprise people-management platform evolved for government clients through full-stack features, business-rule implementation, database work, and Agile delivery. | Java, JSF, JavaScript, HTML, CSS, Oracle, PostgreSQL, Scrum |
 | **Benner Health implementations** | Healthcare-system implementations tailored to large organizations through workflow customization, reports, macros, SQL queries, data extraction, and process automation. | SQL, reporting, workflow customization, automation, consulting |
 | **Public-sector web systems** | Web application development and operational support in federal institutions, combining feature delivery, database queries, CI, version control, and structured team workflows. | Java, SQL, Jenkins, Git, SVN, Jira, enterprise delivery |
-
-## Backend, data, and delivery
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-
-</div>
 
 ## What I value
 
