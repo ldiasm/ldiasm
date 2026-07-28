@@ -25,17 +25,17 @@ I have worked across food-service technology, fitness, e-commerce, financial ser
 
 From 2023 to 2025, I contributed to a portfolio of customer-facing restaurant applications as part of the Plein Air engineering team. Each product had its own brand, operational rules, integrations, and customer journey, while sharing the demands of reliable ordering, loyalty, payments, and production support.
 
-| Product | Project synopsis | Public app |
+| Product | Project synopsis | Live products |
 | :--- | :--- | :---: |
-| 🍗 **Dave's Hot Chicken** | A high-traffic ordering and loyalty experience with personalized menus, pickup and delivery, rewards, offers, store discovery, and repeat-order flows. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/daves-hot-chicken/id1668228991) |
-| 🍕 **Sbarro** | A mobile ordering platform for a global pizza brand, combining order-ahead, delivery, rewards, menu browsing, location discovery, and quick reordering. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/sbarro/id1670813889) |
-| 🍨 **Cold Stone Creamery** | A highly customizable ice-cream ordering journey with pickup and delivery, favorites, recent orders, points, and reward redemption. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cold-stone/id690080616) |
-| 🌮 **Taco Palenque** | An order-ahead and delivery product with customer profiles, favorite and recent orders, scheduled pickup, card payments, and order instructions. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/taco-palenque/id1593418589) |
-| 🌯 **TacoTime** | A location-aware ordering experience that helps customers find participating restaurants, explore menus, and place orders ahead of arrival. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tacotime/id865048468) |
-| 🥑 **Baja Fresh** | A streamlined order-ahead product centered on store discovery, menu exploration, advance payment, and convenient in-store pickup. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/baja-fresh/id658240462) |
-| 🍪 **Dirty Dough** | A customer mobile experience for the stuffed-cookie brand, supporting its digital ordering and engagement journey. | [![Google Play](https://img.shields.io/badge/Google_Play-View-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ce.android.brand.dirtydoughcookiesapp) |
-| 🥤 **Nekter Juice Bar** | A mobile ordering and loyalty platform designed for order-ahead convenience, group orders, rewards, birthday benefits, and personalized offers. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/nekter-juice-bar/id902660278) |
-| 🌶️ **Tijuana Flats** | An ordering and tiered-rewards experience with pickup and delivery, saved meals, recent orders, receipt scanning, offers, and restaurant discovery. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tijuana-flats/id1491125522) |
+| 🍗 **Dave's Hot Chicken** | A high-traffic ordering and loyalty experience with personalized menus, pickup and delivery, rewards, offers, store discovery, and repeat-order flows. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.daveshotchicken.com/) [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/daves-hot-chicken/id1668228991) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mobile.daveshotchicken) |
+| 🍕 **Sbarro** | A mobile ordering platform for a global pizza brand, combining order-ahead, delivery, rewards, menu browsing, location discovery, and quick reordering. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://sbarro.com/) [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/sbarro/id1670813889) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sbarro.mobileapp) |
+| 🍨 **Cold Stone Creamery** | A highly customizable ice-cream ordering journey with pickup and delivery, favorites, recent orders, points, and reward redemption. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.coldstonecreamery.com/) [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cold-stone/id690080616) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.olo.coldstone) |
+| 🌮 **Taco Palenque** | An order-ahead and delivery product with customer profiles, favorite and recent orders, scheduled pickup, card payments, and order instructions. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://tacopalenque.com/home/) [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/taco-palenque/id1593418589) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tacopalenque.app) |
+| 🌯 **TacoTime** | A location-aware ordering experience that helps customers find participating restaurants, explore menus, and place orders ahead of arrival. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.tacotime.com/) [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tacotime/id865048468) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kahala.tacotime) |
+| 🥑 **Baja Fresh** | A streamlined order-ahead product centered on store discovery, menu exploration, advance payment, and convenient in-store pickup. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.bajafresh.com/) [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/baja-fresh/id658240462) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.olo.bajafresh) |
+| 🍪 **Dirty Dough** | A customer mobile experience for the stuffed-cookie brand, supporting its digital ordering and engagement journey. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.dirtydoughcookies.com/) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ce.android.brand.dirtydoughcookiesapp) |
+| 🥤 **Nekter Juice Bar** | A mobile ordering and loyalty platform designed for order-ahead convenience, group orders, rewards, birthday benefits, and personalized offers. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.nekterjuicebar.com/) [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/nekter-juice-bar/id902660278) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ak.app.neckter.activity) |
+| 🌶️ **Tijuana Flats** | An ordering and tiered-rewards experience with pickup and delivery, saved meals, recent orders, receipt scanning, offers, and restaurant discovery. | [![Web](https://img.shields.io/badge/Web-Visit-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.tijuanaflats.com/) [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tijuana-flats/id1491125522) [![Android](https://img.shields.io/badge/Android-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tijuanaflats.app) |
 
 ### My contribution across the portfolio
 
@@ -61,9 +61,21 @@ From 2023 to 2025, I contributed to a portfolio of customer-facing restaurant ap
 
 </div>
 
-### Verified across private engineering projects
+## Architecture across private engineering projects
 
-The following technologies are actively represented in private repositories. The badges communicate the stack; the repositories and source code remain inaccessible.
+These case studies summarize architecture and hands-on engineering represented in private repositories. They intentionally describe systems, decisions, and technologies without exposing source code, credentials, client data, or confidential repository details.
+
+| Architecture case study | Engineering synopsis | Stack and practices |
+| :--- | :--- | :--- |
+| **Realtime, secure mobile platform** | A cross-platform companion product with authenticated groups, live shared sessions, QR and deep-link participation, and durable transactional state. Realtime events accelerate synchronization, while persisted server state remains the source of truth and reconciliation path. | React Native, Expo Router, TypeScript, Supabase Auth/Postgres/Realtime/Edge Functions/Storage, RLS, SQL RPCs, SQLite, Zod |
+| **Performance-sensitive interactive UI** | A multi-participant interface with custom rendering, gestures, animated counters, and independent clocks. High-frequency state is isolated in external stores and subscribed to by leaf components to avoid full-screen render cascades. | React Native Skia, Reanimated, `useSyncExternalStore`, Zustand, render isolation, profiling |
+| **Native camera and on-device image pipeline** | A camera product with JPEG and RAW capture, native rendering, non-destructive adjustments, background processing, gallery export, and stale-response protection for live previews. Platform bridges keep image work close to the device while the product flow stays cross-platform. | React Native, Expo, VisionCamera, Worklets, Swift, Kotlin, Core Image, Android graphics/media APIs, Jest |
+| **Desktop-first system with offline contingency** | A desktop operational system with explicit UI, application, repository, native-command, and persistence boundaries. SQLite supports local continuity and an outbox records user intent for idempotent, timeout-protected replay toward an authoritative backend. | Tauri 2, React, TypeScript, Rust, SQLite, Supabase Postgres, RLS, RPCs, migrations, Vitest, pgTAP |
+| **Type-safe full-stack work management** | A multi-tenant planning platform organized around teams, workspaces, boards, lanes, and cards. Access rules are preserved across aggregate planning views, while private attachments use short-lived signed access after server-side authorization checks. | Bun, Turborepo, React, TanStack Router/Query/Form, Elysia, oRPC, Drizzle ORM, PostgreSQL, Supabase Storage, Zod |
+
+### Technologies represented in the private portfolio
+
+The badges below complement the architectural case studies; private repositories and source code remain inaccessible.
 
 <div align="center">
 
@@ -75,10 +87,14 @@ The following technologies are actively represented in private repositories. The
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=1A1A1A)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
 </div>
-
-Areas explored in private work include realtime mobile experiences, offline persistence, camera and media pipelines, custom rendering and animations, QR-based flows, observability, authentication, and testable TypeScript domain logic.
 
 ## Additional professional case studies
 
