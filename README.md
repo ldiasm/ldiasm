@@ -21,20 +21,23 @@ I have worked across food-service technology, fitness, e-commerce, financial ser
 
 > 🔒 **Privacy by design:** professional and private-project source code remains private. This portfolio presents public products, verified technologies, contribution areas, and outcomes without exposing client-owned code or confidential implementation details.
 
-## Selected production work
+## Selected production work · Plein Air
 
-These are public products I contributed to as part of integrated engineering teams.
+From 2023 to 2025, I contributed to a portfolio of customer-facing restaurant applications as part of the Plein Air engineering team. Each product had its own brand, operational rules, integrations, and customer journey, while sharing the demands of reliable ordering, loyalty, payments, and production support.
 
-| Product | Experience | Public app |
+| Product | Project synopsis | Public app |
 | :--- | :--- | :---: |
-| **Dave's Hot Chicken** | Ordering, loyalty, integrations, stability, and mobile UX | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/daves-hot-chicken/id1668228991) |
-| **Cold Stone Creamery** | Ordering, rewards, production maintenance, and cross-platform delivery | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cold-stone/id690080616) |
-| **Tijuana Flats** | Ordering, rewards, customer engagement, and mobile reliability | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tijuana-flats/id1491125522) |
-| **Nekter Juice Bar** | Mobile ordering, loyalty, checkout flows, and production support | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/nekter-juice-bar/id902660278) |
-| **Baja Fresh** | Order-ahead experiences, integrations, and application maintenance | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/baja-fresh/id658240462) |
-| **TacoTime** | Ordering and location flows, feature delivery, and mobile maintenance | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tacotime/id865048468) |
+| 🍗 **Dave's Hot Chicken** | A high-traffic ordering and loyalty experience with personalized menus, pickup and delivery, rewards, offers, store discovery, and repeat-order flows. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/daves-hot-chicken/id1668228991) |
+| 🍕 **Sbarro** | A mobile ordering platform for a global pizza brand, combining order-ahead, delivery, rewards, menu browsing, location discovery, and quick reordering. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/sbarro/id1670813889) |
+| 🍨 **Cold Stone Creamery** | A highly customizable ice-cream ordering journey with pickup and delivery, favorites, recent orders, points, and reward redemption. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cold-stone/id690080616) |
+| 🌮 **Taco Palenque** | An order-ahead and delivery product with customer profiles, favorite and recent orders, scheduled pickup, card payments, and order instructions. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/taco-palenque/id1593418589) |
+| 🌯 **TacoTime** | A location-aware ordering experience that helps customers find participating restaurants, explore menus, and place orders ahead of arrival. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tacotime/id865048468) |
+| 🥑 **Baja Fresh** | A streamlined order-ahead product centered on store discovery, menu exploration, advance payment, and convenient in-store pickup. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/baja-fresh/id658240462) |
+| 🍪 **Dirty Dough** | A customer mobile experience for the stuffed-cookie brand, supporting its digital ordering and engagement journey. | [![Google Play](https://img.shields.io/badge/Google_Play-View-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ce.android.brand.dirtydoughcookiesapp) |
+| 🥤 **Nekter Juice Bar** | A mobile ordering and loyalty platform designed for order-ahead convenience, group orders, rewards, birthday benefits, and personalized offers. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/nekter-juice-bar/id902660278) |
+| 🌶️ **Tijuana Flats** | An ordering and tiered-rewards experience with pickup and delivery, saved meals, recent orders, receipt scanning, offers, and restaurant discovery. | [![App Store](https://img.shields.io/badge/App_Store-View-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tijuana-flats/id1491125522) |
 
-### How I contributed
+### My contribution across the portfolio
 
 | Product engineering | Quality and collaboration |
 | --- | --- |
@@ -77,16 +80,19 @@ The following technologies are actively represented in private repositories. The
 
 Areas explored in private work include realtime mobile experiences, offline persistence, camera and media pipelines, custom rendering and animations, QR-based flows, observability, authentication, and testable TypeScript domain logic.
 
-## Broader professional experience
+## Additional professional case studies
 
-- Built and supported mobile and web products for a global digital fitness platform serving millions of users
-- Contributed to a large online marketplace across mobile and web experiences
-- Developed cross-platform applications for a leading global consumer-electronics company
-- Built mobile experiences and Node.js/PostgreSQL APIs for a large Brazilian financial institution
-- Contributed to a gamified investment-education product, including product definition and gamification
-- Implemented healthcare workflows, reports, SQL queries, and process automation for large organizations
-- Developed enterprise and public-sector systems using Java, JavaScript, JSF, Oracle, and PostgreSQL
-- Designed and delivered React Native training as a technical instructor
+Some client and product names remain confidential, so these projects are presented through their public business context and the engineering work involved.
+
+| Project | Synopsis | Main technologies and practices |
+| :--- | :--- | :--- |
+| **Global digital fitness platform** | Mobile and web experiences for a worldwide fitness product serving millions of users, with an emphasis on continuous feature delivery, maintenance, and consistent cross-platform behavior. | React Native, React, Node.js, JavaScript, product collaboration |
+| **Large online marketplace** | Consumer-facing marketplace work focused on improving mobile and web journeys inside a high-scale product environment. | React Native, React, API integration, mobile and web UX |
+| **Consumer-electronics applications** | Cross-platform applications delivered for a leading global electronics company, alongside an internal React Native course created to strengthen the engineering team. | React Native, React, Node.js, technical instruction |
+| **Investment and financial education ecosystem** | A cross-platform investment product and a gamified financial-education experience backed by Node.js and PostgreSQL APIs. The work included product definition, gamification strategy, and client-facing presentation at Brazil Game Show. | React Native, Node.js, PostgreSQL, REST APIs, gamification |
+| **VOBYS human-capital management** | An enterprise people-management platform evolved for government clients through full-stack features, business-rule implementation, database work, and Agile delivery. | Java, JSF, JavaScript, HTML, CSS, Oracle, PostgreSQL, Scrum |
+| **Benner Health implementations** | Healthcare-system implementations tailored to large organizations through workflow customization, reports, macros, SQL queries, data extraction, and process automation. | SQL, reporting, workflow customization, automation, consulting |
+| **Public-sector web systems** | Web application development and operational support in federal institutions, combining feature delivery, database queries, CI, version control, and structured team workflows. | Java, SQL, Jenkins, Git, SVN, Jira, enterprise delivery |
 
 ## Backend, data, and delivery
 
